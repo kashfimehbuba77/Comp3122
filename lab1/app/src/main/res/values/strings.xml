@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab1W2</string>
+    <string name="name">Kashfi Mehbuba</string>
+    <string name="studentId">101474002</string>
+    <string name="nextBtnLabel">Next Activity</string>
+    <string name="www">WWW</string>
+    <string name="call">Call</string>
+    <string name="map">Map</string>
+    <string name="back">Back</string>
+</resources>
